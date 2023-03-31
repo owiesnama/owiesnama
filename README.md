@@ -10,5 +10,28 @@ Fullstack developer with experience in building web apps using modern technologi
 a passionate web developer who want to make Sudan a better place and probably the world.</p>
 
 <p align="center">
-<a href="https://twitter.com/OwiesNama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjalanbaki" height="30" width="40" /></a>
+<h2 align="center">Skills</h2>
 </p>
+<p align="center">
+
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML/CSS Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/agungksidik/public-assets/master/logo/inertiajs-logo.png" alt="Inertia.js Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
+</p>
+
+
+<p align="center">
+<h2 align="center">Contact Me</h2>
+</p>
+
+<p align="center">
+<a href="https://twitter.com/OwiesNama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjalanbaki" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/owiesnama/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mjalanbaki" height="30" width="40" />
+  </a>
+  </p>
